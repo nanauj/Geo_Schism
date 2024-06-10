@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 # 파일 경로 및 이름 설정
-fpath = r'D:\DropBox\Dropbox (개인용)\y2024\02_SCHISM\05_grid\03_Jaran'
+fpath = r'D:\DropBox\Dropbox (개인용)\y2024\02_SCHISM\05_grid\03_Jaran' # 경로 수정 필요 !!
 fnameBid = 'Shellfish_Grid_SMS_V1.bid'
 fname2dm = 'Shellfish_Grid_SMS_V1.2dm'
 infileBid = os.path.join(fpath, fnameBid)
